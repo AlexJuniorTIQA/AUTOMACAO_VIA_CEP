@@ -1,6 +1,6 @@
 Projeto de BDD
 
-JAVA + CUCUMBER + SELENIUM + JUNIT
+JAVA + CUCUMBER + REST ASSURED + JUNIT
 
 Bibliotecas adicionais:
 Apache
